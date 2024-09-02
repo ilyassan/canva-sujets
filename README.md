@@ -1,6 +1,1 @@
-### Ce dépôt contient une présentation complète sur les méthodes pédagogiques modernes, incluant :
-
-* **Pédagogie Active** : Approches qui favorisent l'engagement actif des étudiants dans leur apprentissage.
-* **Learning by Doing** : Méthode basée sur l'apprentissage par la pratique et l'expérience directe.
-* **Learning by Teaching** : Technique où les étudiants enseignent aux autres pour renforcer leur propre compréhension.
-* **Approche par Projet** : Stratégie d'apprentissage basée sur des projets concrets qui permettent aux étudiants de mettre en pratique leurs connaissances.
+Ce dépôt GitHub contient une présentation complète sur diverses méthodes pédagogiques innovantes, notamment **la pédagogie active**, **l'apprentissage par la pratique** (learning by doing), **l'apprentissage par l'enseignement** (learning by teaching) et **l'approche par projet.** Vous y trouverez des diapositives et des ressources détaillées expliquant comment ces méthodes transforment l'éducation en favorisant un apprentissage interactif et pratique. Découvrez comment ces approches peuvent améliorer l'engagement des élèves et développer des compétences essentielles pour le monde réel.
